@@ -1,0 +1,47 @@
+body{
+    background-image: url(images/seamless-1082983.jpg);
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+#mnu{
+    list-style-type: none;
+    text-align: center;
+}
+.enl-mnu{
+    display: inline;
+   text-align: center;
+   margin: 0px 10px 0px 0px;
+   position: relative; 
+   bottom: -15px;
+   
+}
+#ctn-enl-mnu{
+    background-image: url(images/wood-1108307_1920.jpg);
+    background-size: cover;
+    height: 80px;
+    width: 100%;
+}
+#ctn-txt{
+    background-color: darkgoldenrod;
+    font-size: 134%;
+}
+#ctn-yt{
+    text-align: center;
+}
+#ctn-ls{
+    background-color: darkgoldenrod;
+    font-size: 124%;
+}
+#fnl-web{
+    background-image: url(images/papel.jpg);
+    background-size: cover;
+    text-size-adjust: 24px;
+}
+#up-flecha {
+    width: 10%;
+}
+#t-flecha{
+    background-color: rgb(111, 204, 20);
+}    
